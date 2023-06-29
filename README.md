@@ -22,16 +22,16 @@ A typical QSAR equation is elaborated as a Linear Equation, where:
 
 Biological Activity = Const + (C1 x P1) + (C2 x P2) + (C3 x P3) + ... + (Cn x Pn)
 
-The descriptors of the molecules in the series are assigned parameters (P1-Pn) and coefficients (C1-Cn) and are based on their biological activity. Statistical techniques are used to derive a QSAR by analysing variations in these parameters [2]. QSAR, being a very sensitive modeling technique, depends on the quality of the data and the choice of descriptors (what descriptors are would be explained in a later chapter).
+The descriptors of the molecules in the series are assigned parameters (P1-Pn) and coefficients (C1-Cn) and are based on their biological activity. Statistical techniques are used to derive a QSAR by analyzing variations in these parameters [2]. QSAR, being a very sensitive modeling technique, depends on the quality of the data and the choice of descriptors (what descriptors are would be explained in a later chapter).
 
-This is what the book caters.
+This is what the book caters to.
 
 There are several books about how to do QSAR modeling with rules and different attributes that one needs to consider, all the correct processes one should proceed to undertake to create a good model and then execute model validation through different statistical validation matrices, just like we have explained earlier.
 
-This book does not do that. This book doesn’t speak of any of the ways a QSAR model should be created, validated and so on… This book speaks of all the mistakes one makes while going through the process. This book speaks of all the processes not to undertake while QSAR modeling, from the experience so far. Steps like Data Selection, Descriptor Selection, Scaffold Selection, Model selection and finally Model validation comprise the backbone of QSAR modeling and are the steps where recurrent errors happen, and that can completely change the outcome of on-going research.
+This book does not do that. This book doesn’t speak of any ways a QSAR model should be created, validated, and so on… This book speaks of all the mistakes one makes while going through the process. This book speaks of all the processes not to undertake while QSAR modeling, from the experience so far. Steps like Data Selection, Descriptor Selection, Scaffold Selection, Model selection, and finally Model validation comprise the backbone of QSAR modeling and are the steps where recurrent errors happen, and that can completely change the outcome of ongoing research.
 
 We noticed that these mistakes are very hard to catch for beginners who are undertaking QSAR modeling; these mistakes are easily overlooked due to either a ‘perfect’ dataset or a ‘perfect’ score during validation. But what QSAR does is an in-depth analysis, where the aim needs to be very precise, that then slowly reveals the errors and problems after reviewing papers over and over again (we had to do the same 9 odd times). However, after finally locating the problem/s, the paper itself loses its value, completely It shatters the trust upon understanding and the computational process.
 
 To stop this from happening, to save time and to point out all the signs that the paper or the model might have a problem we are dedicating this book to all the novices in this field.
 
-This book is a negative aspect-based and opinion-based guide to QSAR Modeling with real-time example, of our failed paper and why it failed step by step., so that it can might come in handy to any newcomer in this field to look out for all the signs necessary.
+This book is a negative aspect-based and opinion-based guide to QSAR Modeling with the real-time example, of our failed paper and why it failed step by step., so that it can might come in handy to any newcomer in this field to look out for all the signs necessary.
